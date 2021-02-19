@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"sync"
 
-	"github.com/zu1k/proxypool/proxy"
-	"github.com/zu1k/proxypool/tool"
+	"github.com/liugc/proxypool/proxy"
+	"github.com/liugc/proxypool/tool"
 )
 
 func init() {
