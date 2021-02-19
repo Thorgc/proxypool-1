@@ -76,9 +76,9 @@ proxypool -c source.yaml
 
 ### 用户使用
 
-目前公开版本： https://proxy.tgbot.co
+目前公开版本： https://proxypooliu.herokuapp.com
 
-直接在clash添加配置文件即可使用： https://proxy.tgbot.co/clash/config
+直接在clash添加配置文件即可使用： https://proxypooliu.herokuapp.com/clash/config
 
 ## 截图
 
